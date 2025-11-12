@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>KreamWorld</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #222;
+            color: #fff;
+            margin: 0;
+            padding: 50px;
+            text-align: center;
+        }
+        h1 {
+            font-size: 3em;
+            margin-bottom: 20px;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+            font-size: 1.5em;
+        }
+        li {
+            margin: 10px 0;
+        }
+        .donate {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>KreamWorld</h1>
+    <div class="donate-info">
+        <p>Донаты:</p>
+        <ul>
+            <li>VIP — 20 рублей</li>
+            <li>Access — 40 рублей</li>
+            <li>Премиум — 100 рублей</li>
+            <li>Kream — 200 рублей</li>
+        </ul>
+    </div>
+</body>
+</html>
